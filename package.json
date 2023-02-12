@@ -9,12 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.11.6",
->>>>>>> ff69c35 (Designed using Material UI)
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -24,8 +21,4 @@
     "@vitejs/plugin-react": "^3.0.0",
     "vite": "^4.0.0"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ff69c35 (Designed using Material UI)
